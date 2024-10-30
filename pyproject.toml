@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "grid_vis"
-version = "0.1.0"
+version = "0.1.2"
 description = "A Panda3D wrapper to visualise 2D grids."
 readme = "README.md"
 license = {text = "MIT License"}
